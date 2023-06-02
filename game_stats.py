@@ -1,5 +1,4 @@
 class GameStates:
-    """跟踪游戏信息"""
 
     def __init__(self, ai_game):
         self.game_active = False
